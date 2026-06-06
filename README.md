@@ -1,6 +1,6 @@
 # 📉 Customer Churn Analysis
 
-A complete end-to-end data science project predicting customer churn for a telecom company using machine learning. Built as part of a data analytics portfolio targeting Werkstudent roles in Germany.
+A complete end-to-end data science project predicting customer churn for a telecom company using machine learning.
 
 ---
 
